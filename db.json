@@ -1,0 +1,21 @@
+{
+  "words": [
+    {
+      "id": "1",
+      "word": "Squirrel"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "1",
+      "username": "player1",
+      "password1": "password1"
+    },
+    {
+      "id": "2",
+      "username": "player2",
+      "password2": "password2"
+    }
+  ]
+}
